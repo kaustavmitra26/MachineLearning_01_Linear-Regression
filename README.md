@@ -1,5 +1,5 @@
 # MachineLearning_01_Linear-Regression
-Supervised learning is divided into two types: Regression and classification. Further , Regression is also divided into other types, of which 'LINEAR REGRESSION' is the basic one.
+Supervised learning is divided into two types: Regression and classification. Further , Regression is also sub-divided into other types, of which 'LINEAR REGRESSION' is the basic one.
 
 The Assumptions of linear Rgression:
 1.The distribution of residuals is normal (at each value of the dependent variable).
