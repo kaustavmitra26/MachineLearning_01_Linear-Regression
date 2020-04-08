@@ -21,6 +21,4 @@ or
 weight =B0 +B1 * height
 https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/02/Sample-Height-vs-Weight-Linear-Regression.png
 
-YOUTUBE:
-https://www.youtube.com/watch?v=dXcR2XDv3dY&list=PLtCBuHKmdxOd8HyfVuAwioPiE1ZkG5IFR&index=4
 
